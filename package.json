@@ -1,6 +1,6 @@
 {
   "name": "s4fe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Safe remote data fetching",
   "author": "Andrew Moss <andrew@m0ss.dev>",
   "homepage": "https://github.com/agmoss/s4fe#readme",
